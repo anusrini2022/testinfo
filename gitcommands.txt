@@ -1,0 +1,6 @@
+for remote repoistory 
+
+ first time we need to connect with remote repoistory
+git remote add origin https://github.com/anusrini2022/testinfo.git
+
+for each time update add. commit push
